@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Libreria</string>
+
+    <string name="Menu_panel">Panel</string>
+    <string name="Menu_cuenta">Cuenta</string>
+    <string name="Txt_rol">Inicia sesión</string>
+    <string name="Btn_rol_admin">Administrador</string>
+    <string name="Btn_rol_cliente">Usuario</string>
+
+    <string name="Txt_Registro_admin">Registro de administrador</string>
+    <string name="Et_nombres_admin">Nombres</string>
+    <string name="Et_correo_admin">Email</string>
+    <string name="Et_password_admin">Contraseña</string>
+    <string name="Et_repetir_password_admin">Repetir contraseña</string>
+    <string name="Btn_registrar_admin">Registrarme</string>
+    <string name="texto_regresar">Regresar</string>
+    <string name="CerrarSesionAdmin">Cerrar sesión</string>
+
+    <string name="TxtLogin">Login administrador</string>
+    <string name="Btn_login_admin">Login</string>
+
+    <string name="Btn_agregar_categoria">Agregar categoría</string>
+    <string name="Txt_agregar_categoria">Agregar categoría</string>
+    <string name="Et_categoria">Ingresa la categoría</string>
+    <string name="Agregar_categoria_BD">Agregar</string>
+    
+    <string name="Item_nombre_cat_a">Categoría</string>
+
+    <string name="Titulo_RL_admin">Titulo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
